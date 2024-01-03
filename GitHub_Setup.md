@@ -11,7 +11,9 @@ git config --list
 ## Clone & Status
 
 Clone - Cloning a repository on our local machine
+  
   git clone <-repo_link->
 
 Status - displays the state of the code
+  
   git status
