@@ -15,10 +15,11 @@ Status - displays the state of the code
 - git status
 
 ```sh 
- untracked- new files that git doesnt yet track
- modified- changed
- staged- file is ready to be committed
- unmodified- unchanged
+Notes:-
+  untracked- new files that git doesnt yet track
+  modified- changed
+  staged- file is ready to be committed
+  unmodified- unchanged
 ```
 
 ## Add & Commit
